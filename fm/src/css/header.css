@@ -1,0 +1,46 @@
+
+html {
+	background-color: #2e2e2e;
+}
+
+#wrapperupload {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.astext{
+	color: #0066ff;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.astext:visited{
+	color: #0066ff;
+}
+
+.astext:hover{
+	color: #18B21B;
+}
+
+
+#uploader {
+	/*position: fixed;*/
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	border: 5px solid forestgreen;
+}
+
+
+
+
+#uploader > .button {
+	background-color: #FFF;
+}
+
+.filetreehtml > * {
+	color: #FFF;
+}
+
+
+

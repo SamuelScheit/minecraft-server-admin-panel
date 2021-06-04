@@ -1,0 +1,76 @@
+html {
+	background-color: #2e2e2e;
+	border: solid 0px red;
+	text-align: center;
+	color: #0066ff;
+	font-family: 'consolas';
+	font-size: 100%;
+    text-decoration: none;
+    margin: 1% 1%;
+}
+
+
+
+.naviElement {
+    margin-bottom: 5%;
+}
+
+.navi {
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.button {
+	outline: 0;
+	background: #0066ff;
+	width: 40%;
+	border: 0;
+	color: #FFFFFF;
+	padding: 15px;
+	font-size: 14px;
+	transition: all 0.3 ease;
+	cursor: pointer;
+    box-shadow: 0px 0px 50px black;
+	
+}
+
+.button:hover {
+	border-left-color: #18B21B;
+	background: #18B21B;
+	cursor: pointer;
+	transform: translatew;
+	cursor: pointer;
+}
+
+
+
+
+a {
+	color: #0066ff;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:visited {
+	color: #0066ff;
+}
+
+a:hover {
+	color: #18B21B;
+	
+	
+}
+
+/*.nav {
+	width: 100%;
+	font-size: 200%;
+	color: white;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-around;
+	background-color: #2e2e2e;
+	
+}
+*/

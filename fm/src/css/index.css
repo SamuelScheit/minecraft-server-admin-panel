@@ -1,0 +1,33 @@
+#filetree {
+    /*background-color: #666666;*/  
+    border: 5px solid red;
+}
+
+
+
+.astext {
+    background: none;
+    border:none;
+    margin:0;
+    padding:0;
+    
+}
+
+.folder {
+    content: url(/fm/images/nav/folder.png);
+}
+
+table {
+	list-style: none;
+    text-align: left;
+}
+
+tbody > tr:nth-child(even) {
+}
+
+.name {
+    width: 100000px;
+}
+
+.type {
+}
